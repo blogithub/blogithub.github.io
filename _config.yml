@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 
 google_site_verification: dfiugrHuf9zxy341nNU1EOtoSyv3h3J0aB_ajG2j5rU
+
+
+plugins:
+  - jekyll-sitemap
